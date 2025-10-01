@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rex Chukwuedozie| WDD 130</title>
+</head>
+
+<body>
+    <header>.
+
+        <nav>
+            <a href="#">Home</a>
+            <a href="wwr/">Rafting Website</a>
+            <a href="#">country</a>
+            <a href="#">Home</a>
+        </nav>
+
+    </header>
+    <main>
+        <h1>
+            Rex Chukwuedozie | WDD130
+        </h1>
+        <img src="Rex.jpg" alt="Hellow my nae is Rex Chukwuedozxie" width="200">
+        <p>
+            Hellow! my nane is Rex Chukwuedozie and I am from Nigeria.
+        </p>
+
+    </main>
+    <footer>
+        <p>
+            © 2025😃 Rex Chukwuedozie 😂 Delta state Nigeria
+        </p>
+
+    </footer>
+</body>
+
+</html>
