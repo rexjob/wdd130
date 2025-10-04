@@ -44,6 +44,12 @@ section,
 margin: 16px;
 padding: 8px;
 } */
+.socialmedia img {
+    width: 100px;
+    display: inline-block;
+    height: 100px;
+}
+
 .socialmedia a {
     text-decoration: none;
 }
